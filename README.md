@@ -19,9 +19,9 @@
 
 
 ## minimum acceptance criteria
-- [ ] submit single URL to APP
+- [X ] submit single URL to APP
 - [x] APP has links to REPO w/target
-- [ ] APP has 2+ "games" 
-- [ ] APP has 3+ issue improvements
+- [X ] APP has 2+ "games" 
+- [X ] APP has 3+ issue improvements
 - [ ] page is validated w/link to check
-- [ ] REPO is clean
+- [X ] REPO is clean
