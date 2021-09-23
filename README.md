@@ -1,31 +1,27 @@
-# 376 Delta Half-Lab Story Card
+ # 376/ECHO Lab
+ 
+ [376/home](https://gist.github.com/barrycumbie/83326a1ffcab7434abf9392795336d93)
+ 
+ [ECHO REPO](https://github.com/barrycumbie/solid-happiness) 
+ 
+ ## User Story (points = 👕 sm) 
 
-## User Story (points = 👕 sm) 
+**As A** web gamer  
 
-**As A** web user 
+**I want** to go to a cool page 
 
-**I want** to give my name
-
-**So that** I can has cool facts about it! 
+**So that** I can play cool games 
 
 ## Comments/Narrative :brain: :tornado: 
-- I got your started `<code>` in the comments below: `index.html` & `scripts.js`
-- I didn't do nothing on the `.css` so you can reuse that if ya want from an earlier project. 
-- you've gotta get this one all **spun up** by yourself! dev box ==> github ==> github pages
-- don't just repeat MY CODE back to me, make sure you add on, make it your own...make it better
+- let's build on our past work of charlie & delta to make one page with both our games: 'so much wow' & 'name game'
+- let's get it lookin' better, identify a list of issues to resolve & then do it.
+- additionally, need to start thinking about accesibility, usability, validity, and stuff 
 
-# Resources
-- Here is my github REPO: https://github.com/barrycumbie/furry-guide <== put this in submission/assigment comments,
 
-# Minimum Acceptance Criteria 
-- [X ] get your code all nice and neat on your local dev box
-  - [ X] maybe make a new project folder: make new files and grab by code, grab your old css
-- [ X] add additional functionality regarding the user's name
-  - [X ] write a new js function (f/n) that interacts/manipulates the string 
-  - [X ] I mean a *new* one...don't just give me back the 2nd letter, or the 5th...c'mon 
-  - [X ] invoke/call the f/n
-  - [X ] display the message and result on the page
-- [X ] create a new REPO
-- [X ] get your code all up there 
-- [ ] submit a single link to an active page (github page)
-- [X ] tested & working 
+## minimum acceptance criteria
+- [ ] submit single URL to APP
+- [x] APP has links to REPO w/target
+- [ ] APP has 2+ "games" 
+- [ ] APP has 3+ issue improvements
+- [ ] page is validated w/link to check
+- [ ] REPO is clean
